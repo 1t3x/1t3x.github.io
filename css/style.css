@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 15px;
+}
+
+.footer_ascii {
+    text-align: center;
+}
+
+.header_ascii {
+    text-align: center;
+}
+
+.name_ascii {
+    text-align: center;
+}
+
+nav {
+
+    text-align: center;
+    color: red;
+}
+
+a {
+    color: white;
+}
+
+.badges {
+    text-align: center;
+    padding-top: 30px;
+}
