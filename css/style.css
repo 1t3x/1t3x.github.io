@@ -11,12 +11,10 @@ body {
     text-align: center;
 }
 
-.header_ascii {
-    text-align: center;
-}
-
 .name_ascii {
     text-align: center;
+    color: #fff ;
+    text-shadow: rgba(255, 255, 255, 1) 0px 0px 15px, rgba(255, 255, 255, 1) 0px 0px 10px;
 }
 
 nav {
@@ -32,4 +30,8 @@ a {
 .badges {
     text-align: center;
     padding-top: 30px;
+}
+
+.summary {
+    text-decoration: none;
 }
